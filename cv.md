@@ -21,3 +21,10 @@ Looking to obtain a position as a Junior JS Developer for new and existing produ
 * Estimate, prioritize, plan and coordinate testing activities
 * Experience in developing documentation and preparation of product requirements
 * Background in communication with customers in English
+
+## Education
+
+Start/End Date | University
+------------ | -------------
+September 2017 to 2019 | **Belarusian State University / Master’s degree in Document Science (Information Management)** Specialty: Document Science and Information Management
+September 2013 – July 2017 | **Belarusian State University / Bachelor’s degree in Document Science (Information Management)** Academic subjects: computer information technologies in Document Science, modeling of processes of work with documents, records management
