@@ -15,3 +15,9 @@ Looking to obtain a position as a Junior JS Developer for new and existing produ
 * Strong professional communication skills
 * Excellent analytical and problem-solving skills
 
+## EXPERIENCE
+
+* Software Testing Tools: JIRA, TestLink, YouTrack, Android Studio, TestFlight, Postman
+* Estimate, prioritize, plan and coordinate testing activities
+* Experience in developing documentation and preparation of product requirements
+* Background in communication with customers in English
