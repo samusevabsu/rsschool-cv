@@ -1,2 +1,1 @@
-# rsschool-cv
-Ekaterina Samuseva CV
+https://samusevabsu.github.io/rsschool-cv/cv
